@@ -9,3 +9,4 @@ Initial project setup
 ## Features Descriotion
 
 - Practice real-world GitHub collaboration workflow
+- added navbar functionality
